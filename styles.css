@@ -1,0 +1,34 @@
+.ins-tile__button .ins-control__button {
+    border-radius: 999px;
+    border: 1px solid #FFF;
+    box-shadow: 0px 0px 24px 0px rgba(255, 152, 0, 0.75);
+    font-weight: 700;
+    background-color: #FF6D00;
+}
+
+Z .ins-tile__description {
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ins-control__text {
+    color: white !important;
+    font-family: Inter;
+}
+
+.ins-tile__made-with {
+    display: none;
+}
+
+.ins-tile--announcement-bar {
+    background: linear-gradient(90deg, #080808 10.29%, #FF6D00 40.08%, #FF9800 50.14%, #FF6D00 59.75%, #080808 80.21%);
+    font-family: Arial !important;
+}
+
+a.ins-control--link.ins-control--small .ins-control__text {
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
